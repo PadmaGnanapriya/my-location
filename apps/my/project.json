@@ -14,7 +14,7 @@
         "tsConfig": "apps/my/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
         "assets": ["apps/my/src/favicon.ico", "apps/my/src/assets"],
-        "styles": ["apps/my/src/styles.scss"],
+        "styles": ["apps/my/src/styles.scss", "node_modules/ol/ol.css",  "node_modules/ngx-toastr/toastr.css"],
         "scripts": []
       },
       "configurations": {
